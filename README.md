@@ -1,6 +1,6 @@
-# Hi there 👋
+# Hi there 
 
-My name is Alisan . I'm a software developer from tehran.
+My name is Alisan . I'm a software developer 
 
 ## Interests
 
